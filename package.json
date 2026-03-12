@@ -3,17 +3,10 @@
   "version": "1.0.0",
   "description": "IONSCAN 600 E-commerce Platform",
   "scripts": {
-<<<<<<< HEAD
-    "start": "tsx index.ts",
-    "dev": "tsx watch index.ts",
-    "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
->>>>>>> f1888a1096db3f67e9444c50676e5e51aeb314c3
   },
   "dependencies": {
     "ai": "^6.0.116",
